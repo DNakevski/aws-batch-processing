@@ -23,7 +23,7 @@ Execute the following commands in the root of the repo to create and activate th
 
 To create the conda environment from file:
 
-    conda env create --name impala-processing-env --file=environment.yml
+    conda env create --file=environment.yml
 
 To activate the conda environment:
 
