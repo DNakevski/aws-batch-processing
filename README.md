@@ -49,7 +49,7 @@ Windows/Linux command:
 
 Apple M1 command:
 
-    docker buildx build --platform=linux/amd64 -t aws-batch/batch-processing-imagee .
+    docker buildx build --platform=linux/amd64 -t aws-batch/batch-processing-image .
 
 #### Running the containers
 **NOTE:** *test1, test2* and *opt1* are python command parameters.
