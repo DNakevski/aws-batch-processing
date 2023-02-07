@@ -1,0 +1,9 @@
+name: test-python-env
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - requests
+prefix: test-python-env
