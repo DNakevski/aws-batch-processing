@@ -1,10 +1,4 @@
-#  impala-processing
 
-  
-
-App and infrastructure for processing respondents data
-
-  
 
 ##  Prerequisites
 
