@@ -32,7 +32,7 @@ if __name__ == "__main__":
     image_bytes = io.BytesIO(response.content)
     img = plt.imread(image_bytes, format=format)
     
-    # get width and height of the image
+    # extract width and height of the image
     original_width = img.shape[1]
     original_height = img.shape[0]
     print("File dimensions: " + str(original_width) + "x" + str(original_height))
